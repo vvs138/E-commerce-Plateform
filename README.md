@@ -46,4 +46,5 @@ This is a simple E-commerce Order Management System implemented in Java, using c
 - **Abstraction**: Abstracts shared behavior and properties in the User class.
 
 ## Output
-![E-commerce output - 1](https://drive.google.com/file/d/14j7ENthyrsrISRN-KGO8gGWyWrD8kEQt/view?usp=sharing)
+![E-commerce output - 1](https://drive.google.com/uc?export=view&id=14j7ENthyrsrISRN-KGO8gGWyWrD8kEQt)
+
