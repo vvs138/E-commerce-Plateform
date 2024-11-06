@@ -9,8 +9,7 @@ This is a simple E-commerce Order Management System implemented in Java, using c
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [OOP Concepts Used](#oop-concepts-used)
-- [Example Output](#example-output)
-- [License](#license)
+
 
 ## Features
 - **Admin and Customer Roles**: Admins can add, view, and manage products, while customers can view and purchase products.
