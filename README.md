@@ -48,3 +48,5 @@ This is a simple E-commerce Order Management System implemented in Java, using c
 ## Output
 ![E-commerce output - 1](https://drive.google.com/uc?export=view&id=14j7ENthyrsrISRN-KGO8gGWyWrD8kEQt)
 
+![E-commerce output - 2](https://drive.google.com/uc?export=view&id=1-8jcfXUmphuGfBm1ZkjDLPayRb3XJtJB)
+
