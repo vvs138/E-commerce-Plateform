@@ -9,6 +9,7 @@ This is a simple E-commerce Order Management System implemented in Java, using c
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [OOP Concepts Used](#oop-concepts-used)
+- [Output](#output)
 
 
 ## Features
@@ -43,3 +44,6 @@ This is a simple E-commerce Order Management System implemented in Java, using c
 - **Inheritance**: Inherits common properties in the User class for both Admin and Customer.
 - **Polymorphism**: Uses method overloading/overriding for different user roles.
 - **Abstraction**: Abstracts shared behavior and properties in the User class.
+
+## Output
+![E-commerce output - 1](https://drive.google.com/file/d/14j7ENthyrsrISRN-KGO8gGWyWrD8kEQt/view?usp=sharing)
